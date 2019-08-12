@@ -2826,6 +2826,7 @@ input, select, textarea {
 				text-align: center;
 				border-radius: 100%;
 				font-size: 1.25rem;
+				color: black;
 			}
 
 		ul.icons.alt li .icon:before {
